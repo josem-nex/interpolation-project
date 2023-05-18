@@ -3,9 +3,8 @@ import random
 import numpy as np
 
 # Dimensiones de la ventana
-WIDTH = 640
-HEIGHT = 480
-
+WIDTH = 800
+HEIGHT = 600
 # Tamaño de la celda
 CELL_SIZE = 20
 
