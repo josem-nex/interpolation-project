@@ -4,7 +4,6 @@ import numpy as np
 
 
 class MakeCurve():
-    """docstring for MakeCurve."""
 
     def __init__(self):
         self.pts = []
